@@ -1,0 +1,20 @@
+.online{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 25px;
+    height: 25px;
+    background-color: #57BB34;
+    border: 5px solid #F2F2FE;
+    border-radius: 50%;
+    left: calc(58px - (25px / 2));
+}
+
+.image{
+    height: 68px;
+    min-width: 58px;
+    background-color: #000;
+    border-radius: 20px;
+    margin-right: 23px;
+    cursor: pointer;
+}

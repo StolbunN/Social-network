@@ -1,0 +1,14 @@
+.body{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px 30px;
+}
+
+.column {
+    display: flex;
+}
+
+.active{
+    grid-column: span 2;
+    display: flex;
+}

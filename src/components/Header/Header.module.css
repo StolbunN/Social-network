@@ -1,0 +1,16 @@
+.header {
+    grid-row: 1 / 2;
+    grid-column: 1 / -1;
+    padding: 40px 60px 24px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+  min-width: 210px;
+  text-align: center;
+}
+  
+.logo img{
+    height: 100%;
+}

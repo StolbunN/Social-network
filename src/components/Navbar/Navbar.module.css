@@ -1,0 +1,11 @@
+.menu {
+    text-align: center;
+}
+
+.item{
+    line-height: 60px;
+}
+  
+.link {
+    text-decoration: none;
+}

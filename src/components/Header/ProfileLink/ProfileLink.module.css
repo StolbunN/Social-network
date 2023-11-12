@@ -1,0 +1,25 @@
+.body{
+    height: 68px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.body > span:not(:last-child){
+    margin-right: 30px;
+}
+
+.name{
+    width: max-content;
+    cursor: pointer;
+}
+
+.border{
+    width: 3px;
+    height: 34px;
+    background-color: #E1E2EB;
+}
+
+.exit {
+    cursor: pointer;
+}

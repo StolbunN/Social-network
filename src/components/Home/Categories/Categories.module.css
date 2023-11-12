@@ -1,0 +1,10 @@
+.categories{
+    margin: 0 0 14px 0;
+}
+
+.body{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 114px);
+    gap: 30px;
+}

@@ -1,0 +1,17 @@
+.category{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 0 15px 0 30px;
+    border-radius: 20px;
+}
+.title{
+    font-size: 18px;
+}
+.imgWrapper{
+    width: 118px;
+    height: 84px;
+    background-color:burlywood;
+    border-radius: 20px;
+}
